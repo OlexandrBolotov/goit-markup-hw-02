@@ -40,6 +40,10 @@ body{
 .contacts-link:focus {
     color: #404bbf;
 }
+/*our team*/
+.our-team-page{
+    background-color: #f4f4fd;
+}
 /*main page*/
 .main-page {
     background-color: #2e2f42;
