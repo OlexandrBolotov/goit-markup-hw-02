@@ -108,6 +108,12 @@ body{
     text-transform: uppercase;
     color: #4d5ae5;
 }
+a{
+    text-decoration: none;
+}
+ul{
+    list-style: none;
+}
 /*footer*/
 .footer-page{
     background-color: #2e2f42;
